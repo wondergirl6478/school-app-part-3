@@ -1,0 +1,24 @@
+.header{
+    background:orange;
+    display:flex;
+    justify-content :left-right
+}
+.header{
+    background:rgb #cf4707;
+    display:flex;
+    justify-content :space-evenly;
+}
+.grid{
+    display:flex;
+    justify-content: center;
+    flex-wrap:wrap;
+}
+.footer{
+  color: rgb #3e1de4; 
+  border-style: dashed;
+  display: flex;
+  justify-content: flex-start;
+}
+p,h1{
+    text-align: center;
+}
